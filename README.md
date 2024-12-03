@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Space Engineering Student & TU Delft
+Junior Mechanical Engineer & PIAP Space
+
 <!--
 **Janasz3301/Janasz3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
